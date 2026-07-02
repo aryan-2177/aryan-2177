@@ -87,10 +87,10 @@ Pixel-perfect conversion of a WordPress chess academy site into a fast static fr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-2177&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-2177&theme=dark_dimmed&hide_border=true&background=161B22&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-2177&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=79C0FF&text_color=F0F6FC" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=aryan-2177&theme=dark_dimmed&hide_border=true&background=161B22&ring=58A6FF&fire=79C0FF&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=8B949E" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-2177&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-2177&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=F0F6FC" height="165"/>
 
 </div>
 
