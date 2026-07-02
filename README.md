@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aryan%20Gupta&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Aryan%20Gupta&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Engineer;Building+RojgarShine.com;Shipped+ChessNYC.com" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Engineer;Building+RojgarShine.com;Shipped+ChessNYC.com" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Barrownz%20Pearl%20Web-Full%20Stack%20Dev-F72585?style=for-the-badge&labelColor=3A0CA3" />
-  <img src="https://img.shields.io/badge/RojgarShine.com-Live-4CC9F0?style=for-the-badge&labelColor=3A0CA3" />
-  <img src="https://img.shields.io/badge/ChessNYC.com-Live-4361EE?style=for-the-badge&labelColor=3A0CA3" />
+  <img src="https://img.shields.io/badge/Barrownz%20Pearl%20Web-Full%20Stack%20Dev-58A6FF?style=for-the-badge&labelColor=21262D" />
+  <img src="https://img.shields.io/badge/RojgarShine.com-Live-79C0FF?style=for-the-badge&labelColor=21262D" />
+  <img src="https://img.shields.io/badge/ChessNYC.com-Live-388BFD?style=for-the-badge&labelColor=21262D" />
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=3&width=100%"/>
 
 ## 🧑‍💻 About Me
 
@@ -25,7 +25,7 @@ recently_shipped: Chess NYC — pixel-perfect static site conversion
 loves: Clean UI, solid backend logic, and shipping fast
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=3&width=100%"/>
 
 ## 🎨 Tech Stack
 
@@ -56,7 +56,7 @@ loves: Clean UI, solid backend logic, and shipping fast
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=3&width=100%"/>
 
 ## 🚀 Featured Projects
 
@@ -81,29 +81,28 @@ Pixel-perfect conversion of a WordPress chess academy site into a fast static fr
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=3&width=100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-2177&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-2177&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=4CC9F0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-2177&show_icons=true&theme=dark_dimmed&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-2177&theme=dark_dimmed&hide_border=true&background=161B22&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-2177&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-2177&layout=compact&theme=dark_dimmed&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=3&width=100%"/>
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://rojgarshine.com"><img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:aryangupta2177@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aryan-gupta-321845279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"/>
